@@ -11,13 +11,13 @@ Now you can type thees commands:<ul><b>
 <li>conf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to configure the shell</li>
 <li>cowsay&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to return an argument in cow style</li>
 </b></ul>
-# Usage of variables
+<h1><b>Usage of variables</b></h1>
 You can use variables by doing this:<br>
 <b>(the variable name here)=(the value of the variable)</b><br>
 note: You can use a quoted string for the value.<br>
 To check if you did this corectly you can type var to get all the variables' name and there value. If you want to use the variable you can use her value by typing:<br>
 <b>$(the variable name here)</b><br>
-# Examples for variables
+<h1><b>Examples for variables</b></h1>
 &gt;&gt;love="I like programing"<br>
 &gt;&gt;var<br>
 love&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I like programing<br>
