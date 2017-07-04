@@ -21,4 +21,5 @@ To check if you did this corectly you can type var to get all the variables' nam
 &gt;&gt;love="I like programing"<br><br>
 &gt;&gt;var<br>
 love&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I like programing<br>
-&gt;&gt;cowsay &dollar;love
+&gt;&gt;echo &dollar;love<br>
+I like programing<br>&gt;&gt;
