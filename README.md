@@ -18,8 +18,8 @@ note: You can use a quoted string for the value.<br>
 To check if you did this corectly you can type var to get all the variables' name and there value. If you want to use the variable you can use her value by typing:<br>
 <b>&dollar;(the variable name here)</b><br>
 <h1><b>Examples for variables</b></h1>
-&gt;&gt;love="I like programing"<br><br>
+&gt;&gt;varex="I like programing"<br><br>
 &gt;&gt;var<br>
-love&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I like programing<br>
-&gt;&gt;echo &dollar;love<br>
+varex&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I like programing<br>
+&gt;&gt;echo &dollar;varex<br>
 I like programing<br>&gt;&gt;
